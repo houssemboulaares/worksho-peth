@@ -1,0 +1,6 @@
+.groupcard{
+  display:flex ;
+  justify-content: center;
+  gap: 24px;
+  padding: 35px;
+}
